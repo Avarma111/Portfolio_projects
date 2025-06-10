@@ -10,8 +10,8 @@ The primary objective is to provide actionable insights to drive strategic decis
 - Enchanced customer satisfaction and retention
 - Optimized product mix leading to higher profitability
 - Efficient reseller management and performance improvement.
-<img src="images/German Credit Risk.png?raw=true"/>
-
+<img src="images/Retail Analytic.png"/>
+<img src="images/Retail Analytic1.png"/>
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, Tableau)](https://www.notion.so/Digital-Marketing-201bd3ba8d00803986b4e06fa48afa26)
 The project's objective is to improve website traffic and user engagement by developing effective digital marketing campaings and improving website performance. The project aims to achieve the following goals:
 - Increase website traffic by 10% in the next six months
