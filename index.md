@@ -10,16 +10,18 @@ The primary objective is to provide actionable insights to drive strategic decis
 - Enchanced customer satisfaction and retention
 - Optimized product mix leading to higher profitability
 - Efficient reseller management and performance improvement.
-<img src="images/Retail Analytic.png"/>
-<img src="images/Retail Analytic1.png"/>
+<img src="images/Retail Analytic.png?raw=true"/>
+<img src="images/Retail Analytic1.png?raw=true"/>
+
+---
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, Tableau)](https://www.notion.so/Digital-Marketing-201bd3ba8d00803986b4e06fa48afa26)
 The project's objective is to improve website traffic and user engagement by developing effective digital marketing campaings and improving website performance. The project aims to achieve the following goals:
 - Increase website traffic by 10% in the next six months
 - Increase the website's conversion rate by 10% in the next six months
 - Improve website load time by 10% in the next six months
 - Increase user engagement by 10% in the next six months
-<img src="images/Google Analytics 1.png?raw=true"/>
-<img src="images/Google Analytic KPI.png?raw=true"/>
+<img src="images/GMS.png?raw=true"/>
+<img src="images/GMS 2.png?raw=true"/>
 
 ---
 [Fintech (Excel)](https://www.notion.so/Fintech-201bd3ba8d00802986abce59b0d6d523)
